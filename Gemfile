@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+gem 'activerecord', '~> 3.2.0'
+gem 'pg'
+# gem 'mysql2'
+# gem 'sqlite3'
+gem 'rake'
+gem 'sinatra'
+gem 'sinatra-activerecord'
+gem 'paper_trail'
+
